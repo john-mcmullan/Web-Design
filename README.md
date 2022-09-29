@@ -1,8 +1,8 @@
-# Unit 11 Homework: Web Visualization Dashboard 
+# Web Visualization Dashboard 
 
 Follow the below link to learn more about latitudes effects over multiple different things:
 
-https://john-mcmullan.github.io/Web-Design-Challenge/braves-index.html
+https://john-mcmullan.github.io/Web-Design-Challenge/index.html
 
 The comparisons include
 
@@ -38,10 +38,8 @@ https://john-mcmullan.github.io/Web-Design-Challenge/wind.html
 
 # Secret Area
 
-follow the Tomahawk
+If you follow the tiny tomahawk by clicking it in the top corner it will link you to a seperate designed website
 
 ![atlanta-braves-tomahawk-clipart-1](https://user-images.githubusercontent.com/100164773/187580732-ff2548c5-3714-44e5-b0a6-7d11514ac65a.gif)
-
-chop on
 
 https://john-mcmullan.github.io/Web-Design-Challenge/braves-index.html
